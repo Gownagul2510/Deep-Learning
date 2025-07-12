@@ -1,0 +1,29 @@
+# Ignore common system folders and configs
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+*.sqlite3
+*.h5
+*.csv
+*.db
+.cache/
+.history/
+*.pkl
+*.dat
+*.npz
+*.npy
+
+# Ignore user-level folders
+/Users/
+/AppData/
+/Downloads/
+/Music/
+/Videos/
+/Documents/
